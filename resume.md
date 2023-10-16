@@ -1,6 +1,8 @@
 ### David Yu
 
 ### Education: Northeastern University
+### Major: Computer Science
+### Expected Graduation Date: May 2027
 
 <!--
 **DavidYu75/DavidYu75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
