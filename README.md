@@ -1,7 +1,7 @@
 # Hello World 👋🌎
 I'm David, a Software Engineer and Computer Science student at Northeastern University with a passion for building scalable applications and exploring machine learning technologies.
 
-You can find me coding, building cool stuff, and occasionally sleeping.
+You can find me coding, building cool stuff, eating lots of good food, and occasionally sleeping.
 
 ## 🚀 About Me
 🍽️ &nbsp; Currently building _PlateMate_ at Generate - Northeastern's Product Development Studio
@@ -15,7 +15,7 @@ You can find me coding, building cool stuff, and occasionally sleeping.
 
 🎵 &nbsp; _Classify_ - Helping your Spotify playlists make more sense
 
-## 📫 Connect
+## 📫 Let's Connect
 [Email](mailto:davyu735@gmail.com) | [Website](https://www.yudavid.dev/) | [LinkedIn](http://www.linkedin.com/in/david-t-yu)
 
 <!--
