@@ -4,13 +4,17 @@ I'm David, a Software Engineer and Computer Science student at Northeastern Univ
 You can find me coding, building cool stuff, eating lots of good food, and occasionally sleeping.
 
 ## 🚀 About Me
-🍽️ &nbsp; Currently building _PlateMate_ at Generate - Northeastern's Product Development Studio
+🧑🏻‍💻 &nbsp; Currently a Software Engineer at Generate - Northeastern's Product Development Studio
 
 🍀 &nbsp; Incoming Automation Software Developer at Citizens Bank
 
-☕️ &nbsp; Previous Software Engineering Intern at Amazon
+☕️ &nbsp; Previous Software Engineer Intern at Amazon
 
 ## 🔭 Cool Projects I've Built
+🏆 &nbsp; _NURanked [currently building]_ - Turning Northeastern engineers into competitive e-sports stars (minus the gaming) 
+
+🍽️ &nbsp; _PlateMate [currently building]_ - Saving you from food FOMO one dish at a time
+
 💻 &nbsp; _IntReview_ - AI that judges your interview skills (don't worry they're nice!)
 
 🎵 &nbsp; _Classify_ - Helping your Spotify playlists make more sense
