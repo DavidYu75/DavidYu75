@@ -11,8 +11,6 @@ You can find me coding, building cool stuff, eating lots of good food, and occas
 ☕️ &nbsp; Previous Software Engineer Intern at Amazon
 
 ## 🔭 Cool Projects I've Built
-🏆 &nbsp; _NURanked [currently building]_ - Turning Northeastern engineers into competitive e-sports stars (minus the gaming) 
-
 🍽️ &nbsp; _PlateMate [currently building]_ - Saving you from food FOMO one dish at a time
 
 💻 &nbsp; _IntReview_ - AI that judges your interview skills (don't worry they're nice!)
