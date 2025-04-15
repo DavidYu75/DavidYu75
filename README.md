@@ -11,7 +11,9 @@ You can find me coding, building cool stuff, eating lots of good food, and occas
 ☕️ &nbsp; Previous Software Engineer Intern at Amazon
 
 ## 🔭 Cool Projects I've Built
-🍽️ &nbsp; _PlateMate [currently building]_ - Saving you from food FOMO one dish at a time
+🔢 &nbsp; _Black-Scholes Model [currently building]_ - Why not mix finance and code
+
+🍽️ &nbsp; _PlateMate_ - Saving you from food FOMO one dish at a time
 
 💻 &nbsp; _IntReview_ - AI that judges your interview skills (don't worry they're nice!)
 
