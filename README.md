@@ -13,6 +13,8 @@ You can find me coding, building cool stuff, eating lots of good food, and occas
 ## 🔭 Cool Projects I've Built
 🔢 &nbsp; _Black-Scholes Model [currently building]_ - Why not mix finance and code
 
+🏆 &nbsp; _NURanked [currently building]_ - Competitive ranks for CS majors
+
 🍽️ &nbsp; _PlateMate_ - Saving you from food FOMO one dish at a time
 
 💻 &nbsp; _IntReview_ - AI that judges your interview skills (don't worry they're nice!)
