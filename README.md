@@ -1,23 +1,23 @@
 # Hello World 👋🌎
 I'm David, a Software Engineer and Computer Science student at Northeastern University with a passion for building scalable applications and exploring machine learning technologies.
 
-You can find me coding, building cool stuff, eating lots of good food, and occasionally sleeping.
+You can find me coding, building cool stuff, eating lots of good food, and exploring new things.
 
 ## 🚀 About Me
-🧑🏻‍💻 &nbsp; Currently a Software Engineer at Generate - Northeastern's Product Development Studio
-
 🍀 &nbsp; Incoming Automation Software Developer at Citizens Bank
 
 ☕️ &nbsp; Previous Software Engineer Intern at Amazon
 
+🧑🏻‍💻 &nbsp; Previous Software Engineer at Generate - Northeastern's Product Development Studio
+
 ## 🔭 Cool Projects I've Built
-🔢 &nbsp; _Black-Scholes Model [currently building]_ - Why not mix finance and code
+🔢 &nbsp; _Black-Scholes Model [currently building]_ - Mixing finance and code, a true dynamic duo
 
 🏆 &nbsp; _NURanked [currently building]_ - Competitive ranks for CS majors
 
 🍽️ &nbsp; _PlateMate_ - Saving you from food FOMO one dish at a time
 
-💻 &nbsp; _IntReview_ - AI that judges your interview skills (don't worry they're nice!)
+💻 &nbsp; _IntReview_ - AI that judges your interview skills (don't worry, they're nice!)
 
 🎵 &nbsp; _Classify_ - Helping your Spotify playlists make more sense
 
