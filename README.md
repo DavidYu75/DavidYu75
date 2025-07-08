@@ -4,7 +4,7 @@ I'm David, a Software Engineer and Computer Science student at Northeastern Univ
 You can find me coding, building cool stuff, eating lots of good food, and exploring new things.
 
 ## 🚀 About Me
-🍀 &nbsp; Incoming Automation Software Developer at Citizens Financial Group
+🍀 &nbsp; Automation Software Developer Co-op at Citizens Financial Group
 
 ☕️ &nbsp; Previous Software Engineer Intern at Amazon
 
