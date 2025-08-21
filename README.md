@@ -11,9 +11,9 @@ You can find me coding, building cool stuff, eating lots of good food, and explo
 🧑🏻‍💻 &nbsp; Previous Software Engineer at Generate - Northeastern's Product Development Studio
 
 ## 🔭 Cool Projects I've Built
-🔢 &nbsp; _Black-Scholes Model [currently building]_ - Mixing finance and code, a true dynamic duo
-
 🏆 &nbsp; _NURanked [currently building]_ - Competitive ranks for CS majors
+
+🔢 &nbsp; _Black-Scholes Model_ - Mixing finance and code, a true dynamic duo
 
 🍽️ &nbsp; _PlateMate_ - Saving you from food FOMO one dish at a time
 
