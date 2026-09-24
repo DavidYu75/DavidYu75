@@ -4,16 +4,18 @@ I'm David, a Software Engineer and Computer Science student at Northeastern Univ
 You can find me coding, building cool stuff, eating lots of good food, and exploring new things.
 
 ## 🚀 About Me
-👔 &nbsp; Incoming Software Engineer Intern at LinkedIn
+👔 &nbsp; Previous Software Engineer Intern at LinkedIn
 
-🍀 &nbsp; Automation Software Developer Co-op at Citizens Financial Group
+🍀 &nbsp; Previous Automation Software Developer Co-op at Citizens Financial Group
 
 ☕️ &nbsp; Previous Software Engineer Intern at Amazon
 
 🧑🏻‍💻 &nbsp; Previous Software Engineer at Generate - Northeastern's Product Development Studio
 
 ## 🔭 Cool Projects I've Built
-🧠 &nbsp; _AI Business Intelligence [currently building]_ - ~~None of your business~~ Know everything about your business
+🧩 &nbsp; _Distyl_ - One keystroke to rank and pack your codebase context for AI assistants.
+
+🧠 &nbsp; _AI Business Intelligence_ - ~~None of your business~~ Know everything about your business
 
 🏆 &nbsp; _NURanked_ - Competitive ranks for CS majors
 
